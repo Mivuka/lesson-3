@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lesson_3
+namespace Lesson3
 {
     public interface IHasWaterproof
     {

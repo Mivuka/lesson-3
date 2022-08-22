@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lesson_3.Wear
+namespace Lesson3.Wear
 {
     public class Jackets : Wear, IHasWaterproof
     {

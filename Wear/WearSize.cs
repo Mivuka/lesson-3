@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lesson_3
+namespace Lesson3
 {
     public enum WearSize
     {
-        s = 0,
-        m = 1,
-        l = 2,
-        xl = 3,
-        xxl = 4,
+        S = 0,
+        M = 1,
+        L = 2,
+        XL = 3,
+        XXL = 4,
     }
 }

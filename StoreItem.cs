@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lesson_3
+namespace Lesson3
 {
-    public abstract class StoreItem
+    public class StoreItem
     {
         public Guid Id { get; }
-        public abstract string Name { get; set; }
-        public abstract string? Description { get; set; }
+        public string Name { get; set; }
+        public string? Description { get; set; }
         
     }
 }
